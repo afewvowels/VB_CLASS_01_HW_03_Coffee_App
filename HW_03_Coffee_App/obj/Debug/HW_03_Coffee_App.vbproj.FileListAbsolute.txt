@@ -1,0 +1,13 @@
+C:\Users\aeiou\Documents\GitHub\VB_CLASS_01_HW_03_Coffee_App\HW_03_Coffee_App\bin\Debug\HW_03_Coffee_App.exe.config
+C:\Users\aeiou\Documents\GitHub\VB_CLASS_01_HW_03_Coffee_App\HW_03_Coffee_App\bin\Debug\HW_03_Coffee_App.exe
+C:\Users\aeiou\Documents\GitHub\VB_CLASS_01_HW_03_Coffee_App\HW_03_Coffee_App\bin\Debug\HW_03_Coffee_App.pdb
+C:\Users\aeiou\Documents\GitHub\VB_CLASS_01_HW_03_Coffee_App\HW_03_Coffee_App\bin\Debug\HW_03_Coffee_App.xml
+C:\Users\aeiou\Documents\GitHub\VB_CLASS_01_HW_03_Coffee_App\HW_03_Coffee_App\obj\Debug\HW_03_Coffee_App.vbprojResolveAssemblyReference.cache
+C:\Users\aeiou\Documents\GitHub\VB_CLASS_01_HW_03_Coffee_App\HW_03_Coffee_App\obj\Debug\HW_03_Coffee_App.Resources.resources
+C:\Users\aeiou\Documents\GitHub\VB_CLASS_01_HW_03_Coffee_App\HW_03_Coffee_App\obj\Debug\HW_03_Coffee_App.vbproj.GenerateResource.Cache
+C:\Users\aeiou\Documents\GitHub\VB_CLASS_01_HW_03_Coffee_App\HW_03_Coffee_App\obj\Debug\HW_03_Coffee_App.vbproj.CoreCompileInputs.cache
+C:\Users\aeiou\Documents\GitHub\VB_CLASS_01_HW_03_Coffee_App\HW_03_Coffee_App\obj\Debug\HW_03_Coffee_App.exe
+C:\Users\aeiou\Documents\GitHub\VB_CLASS_01_HW_03_Coffee_App\HW_03_Coffee_App\obj\Debug\HW_03_Coffee_App.xml
+C:\Users\aeiou\Documents\GitHub\VB_CLASS_01_HW_03_Coffee_App\HW_03_Coffee_App\obj\Debug\HW_03_Coffee_App.pdb
+C:\Users\aeiou\Documents\GitHub\VB_CLASS_01_HW_03_Coffee_App\HW_03_Coffee_App\obj\Debug\HW_03_Coffee_App.CoffeeApp.resources
+C:\Users\aeiou\Documents\GitHub\VB_CLASS_01_HW_03_Coffee_App\HW_03_Coffee_App\obj\Debug\HW_03_Coffee_App.AboutBox.resources
